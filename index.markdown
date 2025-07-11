@@ -10,5 +10,5 @@ Melissa Dorsten and Steve Mitchell will be married on Lake Como, a place they fi
 
 The Ceremony will be on Sunday, June 7, 2026 in the afternoon.
 
-Immediately family will be invited to stay in the town of Ossuccio, on the Western Shore of Lake Como. Accomodations have been arranged, for arrival on Friday June 5th and departure Tuesday June 9th. 
+Immediate family will be invited to stay in the town of Ossuccio, on the Western Shore of Lake Como. Accomodations have been arranged, for arrival on Friday June 5th and departure Tuesday June 9th. 
 
