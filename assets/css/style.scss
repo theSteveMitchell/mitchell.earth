@@ -3,9 +3,28 @@
 
 @import "{{ site.theme }}";
 .page-header {
-  background-image: url('{{ page.baseurl }}/assets/images/header_flowers.webp');
+  background-image: url('{{ page.baseurl }}/assets/images/como_boat.jpg');
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
+}
+
+.btn {
+  background: rgba(173, 216, 230, 0.2); /* lightblue with transparency */
+  border: 1px solid rgba(173, 216, 230, 0.4); /* subtle border */
+  border-radius: 12px;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  color: #ffffff;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: rgba(173, 216, 230, 0.3);
+  box-shadow: 0 6px 40px rgba(0, 0, 0, 0.15);
 }
 
 .project-tagline {
