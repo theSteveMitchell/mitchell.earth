@@ -6,9 +6,12 @@ description: Lake Como, Italy. June 5-9, 2026
 
 # The Wedding
 
-Melissa Dorsten and Steve Mitchell will be married on Lake Como, a place they first visited in May of 2022 and could never leave.
+We are excited to invite you to join us as we exchange vows on Lake Como, a place we first visited in May 2022 that quickly captured our hearts.
 
-The Ceremony will be on Sunday, June 7, 2026 in the afternoon. Details to follow.
+The ceremony will be held on Sunday, June 7, 2026, in the afternoon. Details to follow.
 
-Immediate family will be invited to stay in the town of Mandello del Lario, on the Western shore of Lake Como. Accomodations have been arranged for arrival on Friday June 5th and departure Tuesday June 9th. 
+Immediate family members are invited to stay together with us at a villa in the town of Mandello del Lario, on the eastern shore of Lake Como. Accommodations have been arranged for arrival on Friday, June 5th, and departure on Tuesday, June 9th.
+
+ 
+
 
