@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Lodging in Ossuccio
+title: Lodging in Mandello del Lario
 date:   2022-02-30 16:55:19 -0500
 ---
 
 # Lodging Together
 
-![Airbnb](/assets/images/terrace.avif)
+![Airbnb](/assets/images/Confalonieri.avif)
 
-The bride and groom have arranged for immediate family to arrive in Ossuccio on June 5th, and stay together in a 16-bedroom home. 
+The bride and groom have arranged lodging for immediate family in Lake Como from June 5th to June 9th.
+
+Villa Confalonieri is locaeted in Mandello del Lario and is a 2-minute walk south from the train station. 
 
 
