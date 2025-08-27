@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Lodging in Mandello del Lario
-date:   2022-02-30 16:55:19 -0500
+title: Accomodations 
+description: Mandello del Lario, IT
+date:   2022-03-05 16:55:19 -0500
 ---
 
 # Lodging Together

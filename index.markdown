@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Melissa and Steve
+title: STEVE <br /><span class="fancy"> and </span><br />MELISSA
 description: Lake Como, Italy. June 5-9, 2026
 ---
 
