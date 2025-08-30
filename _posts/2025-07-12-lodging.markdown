@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accommodations 
+title: ACCOMMODATIONS 
 description: Mandello del Lario, Italy
 date:   2022-03-05 16:55:19 -0500
 ---
@@ -11,5 +11,6 @@ date:   2022-03-05 16:55:19 -0500
 
 The bride and groom have arranged lodging for immediate family members from June 5th to June 9th in a historic villa in a small town on Lake Como.
 Villa Confalonieri is located in Mandello del Lario, just a 2-minute walk south of the train station.
+
 
 
