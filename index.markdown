@@ -1,7 +1,7 @@
 ---
 layout: default
 title: STEVE <br /><span class="fancy"> and </span><br />MELISSA
-description: Lake Como, Italy | June 5-9, 2026
+description: Lake Como, Italy ~ June 5-9, 2026
 ---
 
 # The Wedding
@@ -13,6 +13,7 @@ The ceremony will be held on Sunday, June 7, 2026, in the afternoon. Details to 
 Immediate family members are invited to stay together with us at a villa in the town of Mandello del Lario, on the eastern shore of Lake Como. Accommodations have been arranged for arrival on Friday, June 5th, and departure on Tuesday, June 9th.
 
  
+
 
 
 
